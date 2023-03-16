@@ -1,0 +1,17 @@
+{
+  "name": "typetest",
+  "version": "1.0.0",
+  "description": "Sample application to accompany the Medium article 'The Contradictions of Writing a Standalone Script in TypeScript'",
+  "main": "src/index.ts",
+  "author": "jjdanek",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "execute": "ts-node src/index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.3",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.2"
+  }
+}
