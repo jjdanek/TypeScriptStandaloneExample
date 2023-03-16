@@ -1,6 +1,6 @@
 # TypeScript Script Tutorial
 
-This project contains example code explained in the Medium article [The Contradictions of Writing a Standalone Script in TypeScript]()
+This project contains example code explained in the Medium article [The Contradictions of Writing a Standalone Script in TypeScript](https://medium.com/@jjdanek/the-contradictions-of-writing-a-standalone-script-in-typescript-2c938a915efa).
 
 This project could also be used as a boilerplate project for creating your own standalone TypeScript scripts.
 
